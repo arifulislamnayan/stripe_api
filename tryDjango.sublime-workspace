@@ -1,0 +1,443 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"li",
+				"link	Tag"
+			],
+			[
+				"H",
+				"HttpResponseRedirect"
+			],
+			[
+				"user",
+				"username"
+			],
+			[
+				"U",
+				"UserProfile"
+			],
+			[
+				"ca",
+				"category_name_slug"
+			],
+			[
+				"pa",
+				"add_page"
+			],
+			[
+				"add",
+				"add_page"
+			],
+			[
+				"for",
+				"forms"
+			],
+			[
+				"C",
+				"Category"
+			],
+			[
+				"Ca",
+				"CategoryForm"
+			],
+			[
+				"fo",
+				"form"
+			],
+			[
+				"P",
+				"PhotoAdmin"
+			],
+			[
+				"co",
+				"context_dict"
+			],
+			[
+				"de",
+				"default"
+			],
+			[
+				"s",
+				"sqlite3"
+			],
+			[
+				"ge",
+				"get_context_data"
+			],
+			[
+				"l",
+				"lng"
+			],
+			[
+				"M",
+				"MovieReport"
+			],
+			[
+				"r",
+				"release_date"
+			],
+			[
+				"R",
+				"Release"
+			],
+			[
+				"p",
+				"price"
+			],
+			[
+				"re",
+				"report_builder"
+			],
+			[
+				"b",
+				"background-color"
+			],
+			[
+				"ta",
+				"target	Attr"
+			],
+			[
+				"Mo",
+				"MovieMixin"
+			],
+			[
+				"f",
+				"from"
+			],
+			[
+				"mo",
+				"movielib"
+			],
+			[
+				"ur",
+				"url"
+			],
+			[
+				"con",
+				"context_object_name"
+			],
+			[
+				"tem",
+				"template_name"
+			],
+			[
+				"te",
+				"template_name"
+			],
+			[
+				"u",
+				"ul	Tag"
+			],
+			[
+				"res",
+				"results"
+			],
+			[
+				"qu",
+				"question_id"
+			],
+			[
+				"get",
+				"get_object_or_404"
+			],
+			[
+				"que",
+				"question"
+			],
+			[
+				"q",
+				"question"
+			],
+			[
+				"ques",
+				"question_id"
+			],
+			[
+				"ret",
+				"return"
+			],
+			[
+				"ch",
+				"ChoiceInline"
+			],
+			[
+				"cl",
+				"classes"
+			],
+			[
+				"fi",
+				"fields"
+			],
+			[
+				"Qu",
+				"QuestionAdmin"
+			],
+			[
+				"question",
+				"question_text"
+			],
+			[
+				"in",
+				"index"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/arif/Online-Shopping/book/models.py",
+		"/home/arif/Online-Shopping/book/admin.py",
+		"/home/arif/Online-Shopping/bookshop/urls.py",
+		"/home/arif/shop/README.md",
+		"/home/arif/Online-Shopping/book/forms.py",
+		"/home/arif/todo/core/views.py",
+		"/home/arif/todo/core/urls.py",
+		"/home/arif/todo/todo/urls.py",
+		"/home/arif/todo/core/templates/core/create.html",
+		"/home/arif/todo/core/templates/core/index.html",
+		"/home/arif/Documents/live/index.html",
+		"/home/arif/todo/core/templates/core/menu.html",
+		"/home/arif/Documents/BMET Web Site_reg.html",
+		"/home/arif/Documents/BMET Web Site.html",
+		"/home/arif/Documents/bmet.txt",
+		"/home/arif/todo/core/templates/core/index2.html",
+		"/home/arif/todo/core/admin.py",
+		"/home/arif/todo/core/models.py",
+		"/home/arif/todo/core/static/css/simple-sidebar.css",
+		"/home/arif/todo/todo/settings.py",
+		"/home/arif/pycxcep/pyexcep.py",
+		"/home/arif/pycxcep/text.txt",
+		"/home/arif/pycxcep/test.txt",
+		"/home/arif/tango_with_django_project/rango/templates/rango/index.html",
+		"/home/arif/tango_with_django_project/rango/templates/rango/login.html",
+		"/home/arif/tango_with_django_project/rango/views.py",
+		"/home/arif/tango_with_django_project/rango/templates/rango/register.html",
+		"/home/arif/tango_with_django_project/tango_with_django_project/settings.py",
+		"/home/arif/tango_with_django_project/rango/urls.py",
+		"/media/arif/UUI/Aamir 2008 Hindi HDRip 720p x264 AC3...Hon3y/Hon3yHD.com.txt",
+		"/home/arif/tango_with_django_project/rango/forms.py",
+		"/home/arif/tango_with_django_project/rango/admin.py",
+		"/home/arif/tango_with_django_project/rango/models.py",
+		"/home/arif/tango_with_django_project/rango/templates/rango/category.html",
+		"/home/arif/tango_with_django_project/rango/templates/rango/add_category.html",
+		"/home/arif/tango_with_django_project/rango/templates/rango/add_page.html",
+		"/home/arif/gramsolar/solar/models.py",
+		"/home/arif/CodingBat/problem_no_1.py",
+		"/home/arif/test.txt",
+		"/home/arif/test.py",
+		"/home/arif/django_crud/movielib/templates/index.html",
+		"/home/arif/django_crud/movielib/models.py",
+		"/home/arif/movie_project/movielib/models.py",
+		"/home/arif/movie_project/movielib/views.py",
+		"/home/arif/movie_project/movielib/templates/index2.html",
+		"/home/arif/movie_project/movielib/templates/index.html",
+		"/home/arif/photoblog/photoblog/settings.py",
+		"/home/arif/tango_with_django_project/populate_rango.py",
+		"/home/arif/tango_with_django_project/tango_with_django_project/urls.py",
+		"/home/arif/movie_project/movielib/templates/profile.html",
+		"/home/arif/tango_with_django_project/tango_with_django_project/populate_rango.py",
+		"/home/arif/movie_project/movielib/templates/create.html",
+		"/home/arif/Documents/tango_with_django/tango_with_django_project/rango/views.py",
+		"/home/arif/Documents/tango_with_django/tango_with_django_project/rango/bing_search.py",
+		"/home/arif/Documents/tango_with_django/tango_with_django_project/rango/urls.py",
+		"/home/arif/mysite/mysite/settings.py",
+		"/home/arif/mysite/polls/templates/polls/index.html",
+		"/home/arif/mysite/polls/views.py",
+		"/home/arif/gramsolar/gramsolar/settings.py",
+		"/home/arif/movie_project/movielib/templates/maps.html",
+		"/home/arif/mysite/polls/urls.py",
+		"/home/arif/mysite/polls/templates/polls/detail.html",
+		"/home/arif/Documents/ADB-Driver-v1.4.2/How to Install.txt",
+		"/media/arif/UUI/IP Man 2 2010 720p BluRay DTS x264 SilverTorentHD/Facebook And Twitter.txt",
+		"/home/arif/movie_project/movielib/urls.py",
+		"/home/arif/google_map_api_key_browser.txt",
+		"/home/arif/mysite/templates/admin/time.html",
+		"/home/arif/mysite/polls/templates/polls/home.html",
+		"/home/arif/mysite/polls/models.py",
+		"/home/arif/movie_project/movielib/tests.py",
+		"/home/arif/movie_project/movie_project/__init__.py",
+		"/home/arif/mysite/manage.py",
+		"/home/arif/movie_project/manage.py",
+		"/home/arif/movie_project/movie_project/settings.py",
+		"/home/arif/movie_project/movie_project/urls.py",
+		"/home/arif/portfolio/index.html",
+		"/home/arif/Documents/django-pdf-master/pdf/models.py",
+		"/home/arif/Documents/healthywage-django-report-builder-3cd31f4637bd/docs/howto.rst",
+		"/home/arif/Documents/healthywage-django-report-builder-3cd31f4637bd/docs/quickstart.rst",
+		"/home/arif/Documents/healthywage-django-report-builder-3cd31f4637bd/report_builder/management/commands/generate_report.py",
+		"/home/arif/Documents/healthywage-django-report-builder-3cd31f4637bd/report_builder/management/__init__.py",
+		"/home/arif/Documents/healthywage-django-report-builder-3cd31f4637bd/docs/extend.rst",
+		"/home/arif/movie_project/movielib/reports.py",
+		"/home/arif/Documents/healthywage-django-report-builder-3cd31f4637bd/docs/conf.py",
+		"/home/arif/movie_project/movielib/templates/base_page.html",
+		"/home/arif/movie_project/movielib/templates/confirm_delete.html",
+		"/home/arif/Documents/Sekander Badsha_files/main.css",
+		"/home/arif/movie_project/movielib/static/site.css",
+		"/home/arif/movie_project/movielib/forms.py",
+		"/home/arif/Documents/Sekander Badsha_files/skype-uri.js",
+		"/home/arif/Documents/Sekander Badsha_files/skype-analytics.js",
+		"/home/arif/Documents/Sekander Badsha_files/main.js",
+		"/home/arif/movie_project/movielib/templates/update.html",
+		"/home/arif/mysite/mysite/urls.py",
+		"/home/arif/movie_project/movielib/admin.py",
+		"/home/arif/mysite/polls/admin.py",
+		"/home/arif/mysite/polls/templates/polls/results.html",
+		"/home/arif/Documents/django-bootstrap-crud-templates/bsct/models.py",
+		"/home/arif/Desktop/AndroidAlarmClock/app/src/main/java/com/javapapers/androidalarmclock/AlarmActivity.java",
+		"/home/arif/Desktop/AndroidAlarmClock/app/src/main/java/com/javapapers/androidalarmclock/AlarmReceiver.java",
+		"/home/arif/Desktop/AndroidAlarmClock/app/src/main/java/com/javapapers/androidalarmclock/AlarmService.java",
+		"/home/arif/mysite/templates/admin/bas_site.html",
+		"/usr/local/lib/python2.7/dist-packages/django/contrib/admin/templates/admin/base_site.html",
+		"/home/arif/hello/hello.html",
+		"/home/arif/black.py",
+		"/home/arif/PycharmProjects/untitled/blog_tutorial/settings.py",
+		"/home/arif/first_project/app/config/database.php",
+		"/home/arif/first_project/app/routes.php"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "tryDjango.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 333.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
